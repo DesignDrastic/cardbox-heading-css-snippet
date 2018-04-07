@@ -1,4 +1,4 @@
-# cardbox-heading-css-snippet
+# Card/Box Heading Design
 Card Box Heading/Header/Title Design
 
 <a href="https://designdrastic.com/snippet/cardbox-heading-css-snippet"><strong>View Post</strong></a>
